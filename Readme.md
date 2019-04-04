@@ -3,7 +3,7 @@
 
 * [CustomException.cs](./CS/App_Code/CustomException.cs) (VB: [CustomException.vb](./VB/App_Code/CustomException.vb))
 * **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [FileDownloadHandler.ashx](./CS/FileDownloadHandler.ashx) (VB: [FileDownloadHandler.ashx](./VB/FileDownloadHandler.ashx))
 <!-- default file list end -->
 # ASPxCardView - How to upload files in the Edit mode and save them in a database
