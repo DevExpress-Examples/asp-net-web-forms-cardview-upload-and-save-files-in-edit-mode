@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# CardView for ASP.NET Web Forms - How to upload files in edit mode and save them t0 a database
+# CardView for ASP.NET Web Forms - How to upload files in edit mode and save them to a database
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t578527/)**
 <!-- run online end -->
